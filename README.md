@@ -19,8 +19,8 @@ The main goals of this layout are,
 - Accessing pre-nasalised letters (sannyaka akuru, ardha-anu-nasikya akshara) depends on the letter, Refer to the above layout preview to see where to access each letter
   - **ALTERNATIVELY** You can access any pre-nasalised consonant with dead keys, Entering the `x` key and any valid consonant afterwards will allow you to access its pre-nasalised form
 - Refer to the above layout preview for vowel letters, every vowel letter requires the `altGr` key or **alternatively, the use of the dead key** `` ` `` alongside the corresponding vowel marker (For example  `ැ` ->  `ඇ`, Although for අ and ආ pleaase refer to the dead key table) to be inputted
-- Ligatures such as `ක්‍ය` (yanshaya) and `ක්‍ර` (rakaraanshaya) can be accessed with `SHIFT+Y` and `SHIFT+R` respectively
-- Some keys are repeated in the layout for ease of use and/or preference, or perhaps to attain fake sense of consistency with some letters
+- Ligatures such as `ක්‍ය` (yanshaya) and `ක්‍ර` (rakaraanshaya) can be accessed with `SHIFT+Y` and `SHIFT+R` respectively. For any other godforsaken ancient ligature, Please manually type them. This layout allows you to type a unicode `Zero Width Joiner` with `altGr + shift + ,`. Refer to  [Wikipedia Consonant Conjuncts List](https://si.wikipedia.org/wiki/%E0%B7%83%E0%B7%92%E0%B6%82%E0%B7%84%E0%B6%BD_%E0%B6%85%E0%B6%9A%E0%B7%8A%E0%B7%82%E0%B6%BB_%E0%B6%B8%E0%B7%8F%E0%B6%BD%E0%B7%8F%E0%B7%80#Consonant_conjuncts) to know which letters are needed for the the ligature
+- Some keys are repeated in the layout for ease of use and/or preference, or perhaps to attain a fake sense of consistency with some letters
    
 ~~Layout screenshots are terrible I know, I don't know any better way to preview it~~
 ## Dead Key Tables
