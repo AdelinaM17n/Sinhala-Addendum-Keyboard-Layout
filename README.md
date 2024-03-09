@@ -5,12 +5,12 @@ The main goals of this layout are,
 - To be trivial to figure out/use the layout without needing the Sinhala characters printed on keys
 - ...and to give myself something as half as decent as [sl-sayura-m17n-db](https://github.com/mike-fabian/m17n-db-sayura) on windows
 ## Table of Content
-- [Layout Preview](https://github.com/AdelinaM17n/Sinhala-Addendum-Keyboard-Layout/edit/main/README.md#layout-preview)
-- [Layout Details](https://github.com/AdelinaM17n/Sinhala-Addendum-Keyboard-Layout/edit/main/README.md#layout-details)
-- [Dead Key Tables](https://github.com/AdelinaM17n/Sinhala-Addendum-Keyboard-Layout/edit/main/README.md#dead-key-tables)
-  - [Dead Key  `ං` (Qwerty Key `x`)](https://github.com/AdelinaM17n/Sinhala-Addendum-Keyboard-Layout/edit/main/README.md#dead-key--%E0%B6%82-qwerty-key-x)
-  - [Dead Key `ඃ` (Qwerty Key `X`)](https://github.com/AdelinaM17n/Sinhala-Addendum-Keyboard-Layout/edit/main/README.md#dead-key-%E0%B6%83-qwerty-key-x)
-  - [Dead Key `` ` `` (Backtick/Accent Aigu)](https://github.com/AdelinaM17n/Sinhala-Addendum-Keyboard-Layout/edit/main/README.md#dead-key--backtickaccent-aigu)
+- [Layout Preview](https://github.com/AdelinaM17n/Sinhala-Addendum-Keyboard-Layout/main/README.md#layout-preview)
+- [Layout Details](https://github.com/AdelinaM17n/Sinhala-Addendum-Keyboard-Layout/main/README.md#layout-details)
+- [Dead Key Tables](https://github.com/AdelinaM17n/Sinhala-Addendum-Keyboard-Layout/main/README.md#dead-key-tables)
+  - [Dead Key  `ං` (Qwerty Key `x`)](https://github.com/AdelinaM17n/Sinhala-Addendum-Keyboard-Layout/main/README.md#dead-key--%E0%B6%82-qwerty-key-x)
+  - [Dead Key `ඃ` (Qwerty Key `X`)](https://github.com/AdelinaM17n/Sinhala-Addendum-Keyboard-Layout/main/README.md#dead-key-%E0%B6%83-qwerty-key-x)
+  - [Dead Key `` ` `` (Backtick/Accent Aigu)](https://github.com/AdelinaM17n/Sinhala-Addendum-Keyboard-Layout/main/README.md#dead-key--backtickaccent-aigu)
 ## Layout Preview
 ![Screenshot 2024-03-09 144409](https://github.com/AdelinaM17n/Sinhala-Addendum-Keyboard-Layout/assets/66691814/92b5067a-f918-43b9-af21-735ce30a9123)
 ![Screenshot 2024-03-09 144422](https://github.com/AdelinaM17n/Sinhala-Addendum-Keyboard-Layout/assets/66691814/0b670219-8f73-48ed-a0e7-96ae3a84a982)
