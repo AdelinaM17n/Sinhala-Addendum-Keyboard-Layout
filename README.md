@@ -12,11 +12,8 @@ The main goals of this layout are,
   - [Dead Key `ඃ` (Qwerty Key `X`)](https://github.com/AdelinaM17n/Sinhala-Addendum-Keyboard-Layout#dead-key-%E0%B6%83-qwerty-key-x)
   - [Dead Key `` ` `` (Backtick/Accent Aigu)](https://github.com/AdelinaM17n/Sinhala-Addendum-Keyboard-Layout#dead-key--backtickaccent-aigu)
 ## Layout Preview
-![Screenshot 2024-03-09 144409](https://github.com/AdelinaM17n/Sinhala-Addendum-Keyboard-Layout/assets/66691814/92b5067a-f918-43b9-af21-735ce30a9123)
-![Screenshot 2024-03-09 144422](https://github.com/AdelinaM17n/Sinhala-Addendum-Keyboard-Layout/assets/66691814/0b670219-8f73-48ed-a0e7-96ae3a84a982)
-![Screenshot 2024-03-09 144432](https://github.com/AdelinaM17n/Sinhala-Addendum-Keyboard-Layout/assets/66691814/73f0c57a-77d2-41b7-926a-466ab86f1295)
-![Screenshot 2024-03-09 144442](https://github.com/AdelinaM17n/Sinhala-Addendum-Keyboard-Layout/assets/66691814/937aafff-9363-4c6b-9c68-8b29c5607513)
-
+Thanks to Jan Kucera at [KBDLayout.info](https://kbdlayout.info) for this preview (https://kbdlayout.info/SL-AD)
+![image](https://github.com/AdelinaM17n/Sinhala-Addendum-Keyboard-Layout/assets/66691814/80439e34-ee42-4913-9c32-a58f6a6fe899)
 
 ## Layout Details
 - All aspirated consonats can be accessed by pressing `SHIFT` alongside the key corresponding to the non-aspirated consonant, except for four consonants
@@ -27,6 +24,7 @@ The main goals of this layout are,
 - Refer to the above layout preview for vowel letters, every vowel letter requires the `altGr` key or **alternatively, the use of the dead key** `` ` `` alongside the corresponding vowel marker (For example  `ැ` ->  `ඇ`, Although for අ and ආ pleaase refer to the dead key table) to be inputted
 - Ligatures such as `ක්‍ය` (yanshaya) and `ක්‍ර` (rakaraanshaya) can be accessed with `SHIFT+Y` and `SHIFT+R` respectively. For any other godforsaken ancient ligature, Please manually type them. This layout allows you to type a unicode `Zero Width Joiner` with `altGr + shift + ,`. Refer to  [Wikipedia Consonant Conjuncts List](https://si.wikipedia.org/wiki/%E0%B7%83%E0%B7%92%E0%B6%82%E0%B7%84%E0%B6%BD_%E0%B6%85%E0%B6%9A%E0%B7%8A%E0%B7%82%E0%B6%BB_%E0%B6%B8%E0%B7%8F%E0%B6%BD%E0%B7%8F%E0%B7%80#Consonant_conjuncts) to know which letters are needed for the the ligature
 - Some keys are repeated in the layout for ease of use and/or preference, or perhaps to attain a fake sense of consistency with some letters
+- **All characters which are still part of modern usage be accessed without the `altGr` key**
    
 ~~Layout screenshots are terrible I know, I don't know any better way to preview it~~
 ## Dead Key Tables
